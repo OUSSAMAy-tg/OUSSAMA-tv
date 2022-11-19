@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background-color: blue;
+    text-align: center;
+    height: 250px;
+    font-size: 30px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.put {
+    background-color: rgb(21, 255, 0);
+    text-align: center;
+    margin-top: 30px;
+    height: 200px;
+    padding-top: 80px;
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
